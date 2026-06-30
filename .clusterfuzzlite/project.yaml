@@ -1,0 +1,4 @@
+language: c++
+
+fuzz_targets:
+  - libraw_vendor_fuzzer
